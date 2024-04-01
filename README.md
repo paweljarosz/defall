@@ -80,3 +80,15 @@ If you run into trouble, help is available in [our forum](https://forum.defold.c
 Happy Defolding!
 
 ---
+
+## Contributing
+
+Feel the creative spark? Contributions are welcome! If you have ideas for new game descriptions or enhancements, please open an issue or submit a pull request.
+
+## License
+
+DefALL is released under the MIT License.
+
+## Disclaimer
+
+Remember, DefALL is an April Fool's joke and not intended for serious use (maybe except game ideas generation). It's designed to bring a smile to your face and maybe even inspire you with its randomly generated game ideas.
