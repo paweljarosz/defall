@@ -1,0 +1,6 @@
+local defall = require "defall.defall"
+
+function init(self)
+	defall.init()
+	go.animate("loading", "position.x", go.PLAYBACK_LOOP_PINGPONG, 580, go.EASING_INOUTCUBIC, 2)
+end
