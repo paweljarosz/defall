@@ -8,14 +8,22 @@ Ehm, some glitch. Please, ignore it.
 
 ## Features
 
-- Utilises powerful AI solutions for breathtaking new solutions.
-- Simulates the real life like process of thinking and processing thoughts for added dramatic effect.
+- ~~Utilises powerful AI solutions for breathtaking new solutions.~~
+- ~~Simulates the real life like process of thinking and processing thoughts for added dramatic effect.~~
 - Encourages taking coffee breaks with prompts when the system encounters a glitch.
 - Generates unique game ideas by combining different elements of game design. This is an actual useful feature. For real.
 
+## Online version
+
+Online version of the generator is available here: [https://paweljarosz.itch.io/defall](https://paweljarosz.itch.io/defall)
+
+## Contributing
+
+Feel the creative spark? Contributions (especially with new game ideas) are welcome! If you have ideas for new game descriptions or enhancements, please open an issue or submit a pull request.
+
 ## Installation
 
-You can use DefALL in your own project by adding this project as a Defold library dependency. Open your `game.project` file and in the dependencies field under `Project` add:
+You can use DefALL in your own Defold project by adding this project as a Defold library dependency. Open your `game.project` file and in the dependencies field under `Project` add:
 
     `https://github.com/paweljarosz/defall/archive/master.zip`
 
@@ -80,10 +88,6 @@ If you run into trouble, help is available in [our forum](https://forum.defold.c
 Happy Defolding!
 
 ---
-
-## Contributing
-
-Feel the creative spark? Contributions are welcome! If you have ideas for new game descriptions or enhancements, please open an issue or submit a pull request.
 
 ## License
 

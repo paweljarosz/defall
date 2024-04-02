@@ -16,3 +16,6 @@ title = DefALL
 publisher = DefALL Industries LLC
 developer = DefALL Software Inc.
 
+[html5]
+cssfile = /builtins/manifests/web/dark_theme.css
+
